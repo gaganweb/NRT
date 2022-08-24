@@ -19,8 +19,8 @@ const Index = () => {
                     We Care Medical &amp; Health
                   </h1>
                   <p className="wow fadeInLeft" data-wow-delay="0.4s">
-                    Dolor sit amet consectetur adipiscing elitsedes eiusmod
-                    tempor incididunt utlabore Lorem
+                    This website is created to show the capability. Any or all content is replacable.
+                    So is design.
                   </p>
                   <Link href="/contact">
                     <a
