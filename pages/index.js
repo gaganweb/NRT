@@ -19,7 +19,7 @@ const Index = () => {
                     We Care Medical &amp; Health
                   </h1>
                   <p className="wow fadeInLeft" data-wow-delay="0.4s">
-                    This website is created to show the capability. Any or all content is replacable.
+                    This website is created to show the capability. Any or all content is replacable. Images are mostly placeholders.
                     So is design.
                   </p>
                   <Link href="/contact">
